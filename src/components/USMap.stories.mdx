@@ -1,0 +1,61 @@
+import { ArgsTable, Canvas, Meta, Story } from '@storybook/addon-docs';
+
+import USMap, { USMapUnwrapped } from './USMap';
+const mapHeight = '440px'
+const northStates = ['North Carolina', 'North Dakota']
+
+<Meta title="USMap" component={USMap} />
+
+# USMap
+
+<Canvas withSource='open'>
+  <Story 
+    name="Default"
+    height={mapHeight}
+    >
+    <USMap />
+  </Story>
+</Canvas>
+
+## Props
+
+<ArgsTable of={USMapUnwrapped} />
+
+## Examples
+
+### Highlight a list of states
+
+States with "North" in their names
+
+<Canvas withSource='open'>
+  <Story 
+    name="Highlight states"
+    height={mapHeight}
+    >
+    <USMap
+      fill={d => northStates.includes(d) ? 'steelblue' : '#eee'}
+      stroke={d => northStates.includes(d) ? '#333' : '#ccc'}
+      strokeWidth={d => northStates.includes(d) ? 2 : 1}
+      sort={(a, b) => (northStates.includes(a) ? 1 : 0) - (northStates.includes(b) ? 1 : 0)}
+      textFilter={d => northStates.includes(d)}
+      textFill={d => northStates.includes(d) ? '#fff' : '#999'}
+      textFontWeight={d => northStates.includes(d) ? 'bold' : 'normal'}
+    />
+  </Story>
+</Canvas>
+
+### Tooltips
+
+Hover over a state to see the tooltip
+
+<Canvas withSource='open'>
+  <Story 
+    name="Tooltip"
+    height={mapHeight}
+    >
+    <USMap
+      fillHover={d => 'orange'}
+      tooltipHTML={d => `<p style="background: #fff; border: 1px solid #ccc; padding: 4px 8px;">${d}</p>`}
+    />
+  </Story>
+</Canvas>

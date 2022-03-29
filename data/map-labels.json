@@ -1,0 +1,399 @@
+{
+    "adjustments": [
+        {
+            "state": "Alabama",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 1,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Alaska",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 2,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Arizona",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Arkansas",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "California",
+            "label_adj_x": -10,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": -3,
+            "mobile_label_adj_y": 2
+        },
+        {
+            "state": "Colorado",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 2
+        },
+        {
+            "state": "Connecticut",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Delaware",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "District of Columbia",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Florida",
+            "label_adj_x": 12,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 7,
+            "mobile_label_adj_y": 8
+        },
+        {
+            "state": "Georgia",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Hawaii",
+            "label_adj_x": -20,
+            "label_adj_y": 10,
+            "mobile_label_adj_x": -12,
+            "mobile_label_adj_y": 6
+        },
+        {
+            "state": "Idaho",
+            "label_adj_x": -3,
+            "label_adj_y": 15,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 7
+        },
+        {
+            "state": "Illinois",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Indiana",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Iowa",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Kansas",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Kentucky",
+            "label_adj_x": 0,
+            "label_adj_y": 7,
+            "mobile_label_adj_x": 4,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Louisiana",
+            "label_adj_x": -9,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": -2,
+            "mobile_label_adj_y": 8
+        },
+        {
+            "state": "Maine",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Maryland",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Massachusetts",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Michigan",
+            "label_adj_x": 12,
+            "label_adj_y": 30,
+            "mobile_label_adj_x": 5,
+            "mobile_label_adj_y": 13 
+        },
+        {
+            "state": "Minnesota",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": -1,
+            "mobile_label_adj_y": -4
+        },
+        {
+            "state": "Mississippi",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Missouri",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Montana",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Nebraska",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 2
+        },
+        {
+            "state": "Nevada",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "New Hampshire",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "New Jersey",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "New Mexico",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "New York",
+            "label_adj_x": 8,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 3,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "North Carolina",
+            "label_adj_x": 0,
+            "label_adj_y": 4,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "North Dakota",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Ohio",
+            "label_adj_x": 0,
+            "label_adj_y": 4,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 2
+        },
+        {
+            "state": "Oklahoma",
+            "label_adj_x": 0,
+            "label_adj_y": 4,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 4
+        },
+        {
+            "state": "Oregon",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Pennsylvania",
+            "label_adj_x": 0,
+            "label_adj_y": 4,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Rhode Island",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "South Carolina",
+            "label_adj_x": 0,
+            "label_adj_y": 4,
+            "mobile_label_adj_x": 1,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "South Dakota",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 2
+        },
+        {
+            "state": "Tennessee",
+            "label_adj_x": 0,
+            "label_adj_y": 3,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 4
+        },
+        {
+            "state": "Texas",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Utah",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Vermont",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        },
+        {
+            "state": "Virginia",
+            "label_adj_x": 8,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 3,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Washington",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 2,
+            "mobile_label_adj_y": 2
+        },
+        {
+            "state": "West Virginia",
+            "label_adj_x": -4,
+            "label_adj_y": 10,
+            "mobile_label_adj_x": -3,
+            "mobile_label_adj_y": 4
+        },
+        {
+            "state": "Wisconsin",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 3
+        },
+        {
+            "state": "Wyoming",
+            "label_adj_x": 0,
+            "label_adj_y": 0,
+            "mobile_label_adj_x": 0,
+            "mobile_label_adj_y": 0
+        }
+    ],
+    "offshore": [
+        {
+            "region": "top",
+            "state": "Vermont"
+        },
+        {
+            "region": "top",
+            "state": "New Hampshire"
+        },
+        {
+            "region": "right",
+            "state": "Massachusetts"
+        },
+        {
+            "region": "right",
+            "state": "Rhode Island"
+        },
+        {
+            "region": "right",
+            "state": "Connecticut"
+        },
+        {
+            "region": "right",
+            "state": "New Jersey"
+        },
+        {
+            "region": "right",
+            "state": "Delaware"
+        },
+        {
+            "region": "right",
+            "state": "Maryland"
+        },
+        {
+            "region": "right",
+            "state": "District of Columbia"
+        }
+    ]
+}

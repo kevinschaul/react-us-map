@@ -1,0 +1,41 @@
+{
+  "name": "react-us-map",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinschaul/react-us-map.git"
+  },
+  "author": "Kevin Schaul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinschaul/react-us-map/issues"
+  },
+  "homepage": "https://github.com/kevinschaul/react-us-map#readme",
+  "dependencies": {
+    "d3-geo": "^3.0.1",
+    "d3-selection": "^3.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-sizeme": "^3.0.2",
+    "topojson": "^3.0.2",
+    "us-abbreviations": "0.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@storybook/addon-actions": "^6.4.19",
+    "@storybook/addon-essentials": "^6.4.19",
+    "@storybook/addon-interactions": "^6.4.19",
+    "@storybook/addon-links": "^6.4.19",
+    "@storybook/react": "^6.4.19",
+    "@storybook/testing-library": "0.0.9",
+    "babel-loader": "^8.2.4",
+    "react-docgen": "^5.4.0"
+  }
+}
