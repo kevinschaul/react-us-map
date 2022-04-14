@@ -10,7 +10,7 @@ TK
 
 ## Usage
 
-TK
+View full list of props and more examples on [Storybook](https://www.kschaul.com/react-us-map/?path=/docs/usmap--default-story).
 
 ## Development
 
