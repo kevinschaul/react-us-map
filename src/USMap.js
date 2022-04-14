@@ -7,9 +7,9 @@ import { geoPath, geoAlbersUsa } from 'd3-geo'
 import { feature } from 'topojson'
 
 const fullToPostal = require('us-abbreviations')('full', 'postal')
-const topoStates = require('../data/us-10m.v2.json')
+import * as topoStates from '../data/us-10m.v2.json'
 const stateGeoData = feature(topoStates, topoStates.objects['states'])
-const mapLabels = require('../data/map-labels.json')
+import * as mapLabels from '../data/map-labels.json'
 const mapLabelAdjustmentsByState = mapLabels.adjustments.reduce((p, v) => {
   p[v.state] = v
   return p
@@ -525,7 +525,7 @@ USMap.defaultProps = {
   size: { width: 600 }
 }
 
-const WrappedUSMap = USMap
+const WrappedUSMap = withSize()(USMap)
 export { WrappedUSMap as USMap }
-export default USMap
+export default withSize()(USMap)
 export { USMap as USMapUnwrapped }
