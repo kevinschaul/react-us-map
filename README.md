@@ -4,6 +4,8 @@
 
 Used in The Washington Post’s [abortion legislation tracker](https://www.washingtonpost.com/nation/interactive/2022/abortion-rights-protections-restrictions-tracker/).
 
+![react-us-map-responsive](https://user-images.githubusercontent.com/675639/163626962-e7f76157-4928-4eef-92a2-3dab69a4ca51.png)
+
 ## Installation
 
     npm i --save react-us-map
