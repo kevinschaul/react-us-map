@@ -1,5 +1,7 @@
 # react-us-map
 
+[![NPM](https://img.shields.io/npm/v/react-us-map.svg)](http://npm.im/react-us-map)
+
  React component for displaying responsive choropleth U.S. maps with tooltips, fills, strokes and more.
 
 Used in The Washington Post’s [abortion legislation tracker](https://www.washingtonpost.com/nation/interactive/2022/abortion-rights-protections-restrictions-tracker/).
@@ -12,7 +14,7 @@ Used in The Washington Post’s [abortion legislation tracker](https://www.washi
 
 ## Usage
 
-Import `USMAP`:
+Import `USMap`:
 
     import { USMap } from 'react-us-map'
 
@@ -36,4 +38,10 @@ To contribute to this tool, first checkout the code. Then install the dependenci
 
 To start storybook:
 
-    npm run storybook
+    npm run start
+
+To release a new version:
+
+    npm version [major | minor | patch]
+
+    npm run release

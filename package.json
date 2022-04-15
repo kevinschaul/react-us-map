@@ -4,15 +4,16 @@
   "description": " React component for displaying responsive U.S. maps with tooltips, fills, strokes and more.",
   "main": "dist/react-us-map.cjs.js",
   "files": [
+    "*.md",
     "dist"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup --config",
-    "storybook": "start-storybook -p 6006",
-    "predeploy": "npm run build-storybook",
-    "deploy-storybook": "gh-pages -d storybook-static",
-    "build-storybook": "build-storybook"
+    "build:docs": "npm run build-storybook",
+    "start": "start-storybook -p 6006",
+    "deploy:docs": "gh-pages -d storybook-static",
+    "release": "npm run build && npm run deploy:docs"
   },
   "repository": {
     "type": "git",
